@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/balisenav.html">
+    <img alt="Entrepreneur d'Intérêt Général - b@liseNAV : des trajets en mer plus sûrs avec une carte marine augmentée" src="https://github.com/sign0/balisenav.com/raw/master/img/poster.jpg" style="width: 100%; max-width: 600px;">
+  </a>
+</div>
+
+---
+
 # b@liseNAV - des trajets en mer plus sûrs avec une carte marine augmentée
 
 La mer, une grande étendue bleue capricieuse sur laquelle s’élancent tous les jours de grands navires et de frêles esquifs. Pour aider les capitaines, expérimentés ou pas, le Service hydrographique et océanographique de la Marine (Shom) basé à Brest met à disposition des cartes marines mises à jour avec les informations transmises par les services des phares et balises. Cependant, la transmission et l’intégration des données prennent parfois du temps et les cartes qui en résultent peuvent être difficiles à interpréter.
@@ -14,4 +22,10 @@ Mentors : [Éric Le Guen](https://entrepreneur-interet-general.etalab.gouv.fr/co
 
 Pour aller plus loin : [entrepreneur-interet-general.etalab.gouv.fr/defis/2018/balisenav.html](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/balisenav.html)
 
-[![alt text](https://github.com/sign0/balisenav.com/raw/master/img/poster.jpg "Entrepreneur d'Intérêt Général - b@liseNAV : des trajets en mer plus sûrs avec une carte marine augmentée")](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/balisenav.html)
+---
+
+<div align="center">
+  <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">
+    <img src="https://github.com/sign0/balisenav.com/raw/master/img/logo-eig.png" width="500px">
+  </a>
+</div>
