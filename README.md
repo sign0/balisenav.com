@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/balisenav.html">
-    <img alt="Entrepreneur d'Intérêt Général - b@liseNAV : des trajets en mer plus sûrs avec une carte marine augmentée" src="https://github.com/sign0/balisenav.com/raw/master/img/poster.jpg" style="width: 100%; max-width: 600px;">
+    <img alt="Entrepreneur d'Intérêt Général - b@liseNAV : des trajets en mer plus sûrs avec une carte marine augmentée" src="https://github.com/sign0/balisenav.com/raw/master/img/poster.jpg" style="width: 100%; max-width: 1000px;">
   </a>
 </div>
 
